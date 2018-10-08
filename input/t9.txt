@@ -1,0 +1,25 @@
+R,G,B,O,Y
+QXxcY: R-1, CqF03: B-2
+5
+R: 12, G: 43, B: 23, O: 34, Y: 21
+R: 43, G: 54, B: 23, O: 56, Y: 23
+QXxcY: CqF03, Vl2tc, RuDQS, SQWho
+4p8dS: SQWho, opBSg, 4UJ6B, EfAlJ, Vl2tc, zfPuV, ZqkG6
+opBSg: RuDQS, 3cY4M, zfPuV, eF3Ka, 4p8dS
+66q9x: 4UJ6B, 3cY4M, RuDQS
+4UJ6B: 4p8dS, 66q9x, HEPJv, RuDQS, mLfXv, 2L3t2
+EfAlJ: 4p8dS, 4YVsA, Vl2tc, mLfXv, 3cY4M, 2L3t2
+4YVsA: CqF03, EfAlJ, eF3Ka, HEPJv
+RuDQS: QXxcY, opBSg, 66q9x, 4UJ6B, rhdE5, HEPJv
+HEPJv: 4UJ6B, RuDQS, Vl2tc, 4YVsA
+rhdE5: RuDQS
+Vl2tc: mLfXv, QXxcY, 4p8dS, HEPJv, EfAlJ
+zfPuV: opBSg, 4p8dS
+HsqqQ: mLfXv, 2L3t2
+CqF03: ZqkG6, QXxcY, 4YVsA, SQWho, 2L3t2
+mLfXv: SQWho, 4UJ6B, EfAlJ, Vl2tc, HsqqQ, ZqkG6
+3cY4M: EfAlJ, SQWho, opBSg, 66q9x
+ZqkG6: CqF03, mLfXv, 4p8dS
+eF3Ka: 4YVsA, opBSg
+2L3t2: 4UJ6B, CqF03, HsqqQ, EfAlJ
+SQWho: CqF03, mLfXv, 3cY4M, QXxcY, 4p8dS

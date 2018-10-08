@@ -1,0 +1,9 @@
+Red, Green, Blue
+SA: Red-1, G: Green-2
+3
+Red: 10, Green: 5, Blue: 0
+Red: 0, Green: 2, Blue: 8
+SA: B, G, R
+B: R, SA
+G: R, SA
+R: B, G, SA
